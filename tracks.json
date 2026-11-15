@@ -1,0 +1,125 @@
+{
+  "base": "https://raw.githubusercontent.com/reelow29/music-for-creatomate/main/library/",
+  "tracks": [
+    {
+      "file": "hiphop-c-b-p-d-400.mp3",
+      "genre": "hiphop",
+      "title": "C.B.P.D"
+    },
+    {
+      "file": "hiphop-trapanomics-283.mp3",
+      "genre": "hiphop",
+      "title": "Trapanomics"
+    },
+    {
+      "file": "hiphop-g-eazy-nba-type-403.mp3",
+      "genre": "hiphop",
+      "title": "G Eazy NBA type"
+    },
+    {
+      "file": "hiphop-find-me-outside-258.mp3",
+      "genre": "hiphop",
+      "title": "Find Me Outside"
+    },
+    {
+      "file": "hiphop-basketball-training-349.mp3",
+      "genre": "hiphop",
+      "title": "Basketball Training"
+    },
+    {
+      "file": "hiphop-head-bang-357.mp3",
+      "genre": "hiphop",
+      "title": "Head Bang"
+    },
+    {
+      "file": "hiphop-rnb-224.mp3",
+      "genre": "hiphop",
+      "title": "RnB"
+    },
+    {
+      "file": "hiphop-trap-305.mp3",
+      "genre": "hiphop",
+      "title": "Trap"
+    },
+    {
+      "file": "hiphop-lord-knows-293.mp3",
+      "genre": "hiphop",
+      "title": "Lord Knows"
+    },
+    {
+      "file": "hiphop-young-trizzy-02-431.mp3",
+      "genre": "hiphop",
+      "title": "Young Trizzy 02"
+    },
+    {
+      "file": "hiphop-never-going-broke-301.mp3",
+      "genre": "hiphop",
+      "title": "Never Going Broke"
+    },
+    {
+      "file": "hiphop-need-for-speed-369.mp3",
+      "genre": "hiphop",
+      "title": "Need for speed"
+    },
+    {
+      "file": "edm-a-game-777.mp3",
+      "genre": "edm",
+      "title": "A Game"
+    },
+    {
+      "file": "edm-lets-move-836.mp3",
+      "genre": "edm",
+      "title": "Let's Move"
+    },
+    {
+      "file": "edm-house-vibez-745.mp3",
+      "genre": "edm",
+      "title": "House Vibez"
+    },
+    {
+      "file": "edm-house-fest-113.mp3",
+      "genre": "edm",
+      "title": "House Fest"
+    },
+    {
+      "file": "edm-techno-fest-vibes-124.mp3",
+      "genre": "edm",
+      "title": "Techno Fest Vibes"
+    },
+    {
+      "file": "edm-talent-in-the-air-473.mp3",
+      "genre": "edm",
+      "title": "Talent in the Air"
+    },
+    {
+      "file": "edm-dance-zero-740.mp3",
+      "genre": "edm",
+      "title": "Dance Zero"
+    },
+    {
+      "file": "edm-positive-energy-973.mp3",
+      "genre": "edm",
+      "title": "Positive Energy"
+    },
+    {
+      "file": "edm-trance-party-166.mp3",
+      "genre": "edm",
+      "title": "Trance Party"
+    },
+    {
+      "file": "edm-minimal-emotion-160.mp3",
+      "genre": "edm",
+      "title": "Minimal Emotion"
+    },
+    {
+      "file": "edm-cat-walk-371.mp3",
+      "genre": "edm",
+      "title": "Cat Walk"
+    },
+    {
+      "file": "edm-house-vibes-129.mp3",
+      "genre": "edm",
+      "title": "House Vibes"
+    }
+  ]
+}
